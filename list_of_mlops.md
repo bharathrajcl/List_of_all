@@ -300,6 +300,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Deepchecks](https://github.com/deepchecks/deepchecks) - Open-source package for validating ML models & data, with various checks and suites.
 * [Trubrics](https://github.com/trubrics/trubrics-sdk) - Validate machine learning with data science and domain expert feedback.
+* [Evidently AI](https://www.evidentlyai.com) - Open source package used for Model validation and model retraining
+
 
 ## Optimization Tools
 
